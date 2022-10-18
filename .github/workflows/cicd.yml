@@ -48,5 +48,5 @@ jobs:
       - uses: akhileshns/heroku-deploy@v3.12.12 
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-          heroku_app_name: "comp3104-devops-101345468" #Must be unique in Heroku
+          heroku_app_name: "clit-depths-21368" #Must be unique in Heroku
           heroku_email: "mohammed.vepari@georgebrown.ca"
