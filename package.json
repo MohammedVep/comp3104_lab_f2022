@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "- GitHub Action script added",
   "main": "index.js",
-  "engines": {
-    "node": "18.x"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -25,15 +22,12 @@
   },
   "homepage": "https://github.com/MohammedVep/comp3104_lab_f2022#readme",
   "dependencies": {
-    "babel-jest": "^29.2.0",
-    "build": "^0.1.4",
     "gh-pages": "^2.0.1",
-    "node": "^18.11.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5",
     "travis": "^0.1.1",
-    "yarn": "^1.22.19"
+    "yarn": "^1.13.0"
   },
   "eslintConfig": {
     "extends": "react-app"
